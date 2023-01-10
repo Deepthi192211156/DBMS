@@ -1,6 +1,7 @@
 # DBMS
 ## experiment 1
-[expr 1 source file](mysql> show databases;
+[expr 1 source file](
+mysql> show databases;
 +--------------------+
 | Database           |
 +--------------------+
@@ -29,4 +30,7 @@ mysql> show tables;
 4 rows in set (0.01 sec)
 
 mysql>
+
 )
+
+
