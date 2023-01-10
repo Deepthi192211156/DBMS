@@ -41,6 +41,12 @@
 ![image](https://user-images.githubusercontent.com/122254229/211620167-179720b8-c44a-4ab9-9a14-a9b26850d852.png)
 ![image](https://user-images.githubusercontent.com/122254229/211620363-f8d30911-6eaa-4b50-b3af-6b86f3e74307.png)
 ![image](https://user-images.githubusercontent.com/122254229/211620617-d839bbe9-9d98-4889-be3b-3621a8ca8187.png)
+##Experiment-9
+[Experiment 9 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment-9)
+![image](https://user-images.githubusercontent.com/122254229/211624111-96397694-4e5e-491a-abf7-8e36545a3441.png)
+![image](https://user-images.githubusercontent.com/122254229/211624257-58fb4d33-7d14-4741-8cf1-8f9e8efe05c5.png)
+![image](https://user-images.githubusercontent.com/122254229/211624395-1bb81b6a-0854-4aef-8e6c-3258dc505f16.png)
+
 
 
 
