@@ -50,6 +50,11 @@
 [Experiment 10 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment%2010)
 ![image](https://user-images.githubusercontent.com/122254229/211625199-9b3138c6-39cc-4711-bd26-33b1b5145d88.png)
 ![image](https://user-images.githubusercontent.com/122254229/211625335-951687e9-341e-4017-a49e-8f8c013a19ee.png)
+##Experiment 11
+[Experiment 11 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment%2010)
+![image](https://user-images.githubusercontent.com/122254229/211625957-b0fa524b-4cba-48a4-a5d4-c2388156e976.png)
+![image](https://user-images.githubusercontent.com/122254229/211626073-961f6974-a343-4d21-b8e9-daf905ce9462.png)
+
 
 
 
