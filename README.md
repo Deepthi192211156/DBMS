@@ -1,5 +1,10 @@
 ## Experiment-1
 [Experiment 1 source file](
+![image](https://user-images.githubusercontent.com/122254229/211632097-fb50d002-ede5-4a1a-bb25-c468e9ddade1.png)
+![image](https://user-images.githubusercontent.com/122254229/211632224-b4f43adb-00a7-4652-a5ce-f851598ee537.png)
+![image](https://user-images.githubusercontent.com/122254229/211632321-b02ad2fa-bd14-4eb8-a46c-8675a12a9a36.png)
+![image](https://user-images.githubusercontent.com/122254229/211632407-3a76b9e6-b8d4-44f9-822c-fb70200ff146.png)
+
 ## Experiment 2
 [Experiment 2 source file](https://github.com/Deepthi192211156/DBMS/blob/main/experiment)
 ![image](https://user-images.githubusercontent.com/122254229/211607691-cca4a4e9-2ef2-45f9-a824-5e1f5b052a5d.png)
