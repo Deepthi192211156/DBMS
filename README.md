@@ -83,6 +83,12 @@
 ##Experiment 20
 [Experiment 20 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment%2020)
 ![image](https://user-images.githubusercontent.com/122254229/211794912-540f9dec-fe07-49d4-b7a0-99732b0672e8.png)
+##Experiment 21
+[Experiment 21 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment%2021)
+![image](https://user-images.githubusercontent.com/122254229/211795417-059eacdd-ec8f-4eed-979e-9c25b3fd0180.png)
+![image](https://user-images.githubusercontent.com/122254229/211795503-5f96387e-86ca-40ac-aa59-4b19d96254df.png)
+![image](https://user-images.githubusercontent.com/122254229/211795592-8665a5db-8295-4cc2-9229-012dae737d78.png)
+
 
 
 
