@@ -74,6 +74,10 @@
 ##Experiment 17
 [Experiment 17 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment%2017)
 ![image](https://user-images.githubusercontent.com/122254229/211793157-a6e07193-8ecb-4b64-8f47-1f836717a2d3.png)
+##Experiment 18
+[Experiment 18 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment%2018)
+![image](https://user-images.githubusercontent.com/122254229/211793742-e52315d0-2d86-43b6-ab58-110adcd1642a.png)
+
 
 
 
