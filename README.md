@@ -80,6 +80,10 @@
 ##Experiment 19
 [Experiment 19 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment%2019)
 ![image](https://user-images.githubusercontent.com/122254229/211794307-dd99d38f-1466-4215-abbe-f5c24ac9b1d2.png)
+##Experiment 20
+[Experiment 20 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment%2020)
+![image](https://user-images.githubusercontent.com/122254229/211794912-540f9dec-fe07-49d4-b7a0-99732b0672e8.png)
+
 
 
 
