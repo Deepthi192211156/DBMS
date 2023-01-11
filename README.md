@@ -88,6 +88,11 @@
 ![image](https://user-images.githubusercontent.com/122254229/211795417-059eacdd-ec8f-4eed-979e-9c25b3fd0180.png)
 ![image](https://user-images.githubusercontent.com/122254229/211795503-5f96387e-86ca-40ac-aa59-4b19d96254df.png)
 ![image](https://user-images.githubusercontent.com/122254229/211795592-8665a5db-8295-4cc2-9229-012dae737d78.png)
+##Experiment 22
+[Experiment 22 source file](https://github.com/Deepthi192211156/DBMS/blob/main/Experiment%2022)
+![image](https://user-images.githubusercontent.com/122254229/211796265-305a93b6-7767-4b3e-999f-ad7d3ef3cc8f.png)
+![image](https://user-images.githubusercontent.com/122254229/211796331-8337d648-a4a7-4dc1-9d48-8750afa583ff.png)
+
 
 
 
